@@ -1,0 +1,25 @@
+A Threat. 
+<br />
+ZoomInfo[.]com ZoomInfo Tehcnology LLC is an InfoStealer.
+<br />
+If you have ever used this site or created an account you're being scrapped. 
+<br />
+Check your system for .\AppData\Local\ZoomInfoCEUtility - Check out the .zip file in the \export folder. That zip contains multiple .json files which are being activity updated to collect the following information. 
+<br />
+[Email Header info]
+[Address Book Entries]
+[Email Signatures]
+[Email Contacts]
+[Subject Lines]
+[Email Bounce Back codes]
+<br />
+This then attempt to exfiltrate the information to the following domains
+<br />
+cswapper[.]appspot[.]com
+cswapper[.]freshcontacts[.]com
+<br />
+The coordinator.****.log in the ZoomInfoCEUtility is also logging the activity.
+<br />
+Coordinator[.]exe - https://virustotal.com/gui/file/912c0c803c8d8935c2cc6acc893982f8be3a0331709603e1e5d8a77d4e276456
+<br />
+More information from this very helpful post - https://medium.com/@ChristyRucci/hunt-threats-now-to-seal-your-leaks-2a02547b9626
