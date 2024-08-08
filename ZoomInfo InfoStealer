@@ -1,7 +1,5 @@
-A Threat. 
-<br />
-ZoomInfo[.]com ZoomInfo Tehcnology LLC is an InfoStealer.
-<br />
+##A Threat. <br />
+ZoomInfo[.]com ZoomInfo Tehcnology LLC is an InfoStealer.<br />
 If you have ever used this site or created an account you're being scrapped. 
 <br />
 Check your system for .\AppData\Local\ZoomInfoCEUtility - Check out the .zip file in the \export folder. That zip contains multiple .json files which are being activity updated to collect the following information. 
