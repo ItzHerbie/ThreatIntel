@@ -6,12 +6,12 @@ If you have ever used this site or created an account you're being scrapped.
 <br />
 Check your system for .\AppData\Local\ZoomInfoCEUtility - Check out the .zip file in the \export folder. That zip contains multiple .json files which are being activity updated to collect the following information. 
 <br />
-[Email Header info]
-[Address Book Entries]
-[Email Signatures]
-[Email Contacts]
-[Subject Lines]
-[Email Bounce Back codes]
+*Email Header info
+*Address Book Entries
+*Email Signatures
+*Email Contacts
+*Subject Lines
+*Email Bounce Back codes
 <br />
 This then attempt to exfiltrate the information to the following domains
 <br />
