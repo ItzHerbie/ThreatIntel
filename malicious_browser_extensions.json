@@ -3,63 +3,232 @@
   "last_updated": "2026-02-16",
   "description": "Consolidated list of publicly reported malicious or suspicious browser extensions including AI-themed campaigns, Malwarebytes reports, Cybernews research, DataSpii exfiltration cases, and VK-related malicious extensions.",
   "extensions": [
-    { "id": "kgmeffmlnkfnjpgmdndccklfigfhajen", "name": "Emoji Keyboard Online", "browser": "Chrome" },
-    { "id": "dpdibkjjgbaadnnjhkmmnenkmbnhpobj", "name": "Free Weather Forecast", "browser": "Chrome" },
-    { "id": "gaiceihehajjahakcglkhmdbbdclbnlf", "name": "Video Speed Controller", "browser": "Chrome" },
-    { "id": "mlgbkfnjdmaoldgagamcnommbbnhfnhf", "name": "Unlock Discord (VPN Proxy)", "browser": "Chrome" },
-    { "id": "eckokfcjbjbgjifpcbdmengnabecdakp", "name": "Dark Theme", "browser": "Chrome" },
-    { "id": "mgbhdehiapbjamfgekfpebmhmnmcmemg", "name": "Volume Max", "browser": "Chrome" },
-    { "id": "cbajickflblmpjodnjoldpiicfmecmif", "name": "Unblock TikTok", "browser": "Chrome" },
-    { "id": "pdbfcnhlobhoahcamoefbfodpmklgmjm", "name": "Unlock YouTube VPN", "browser": "Chrome" },
-    { "id": "eokjikchkppnkdipbiggnmlkahcdkikp", "name": "Geco Colorpick / Eyedropper", "browser": "Chrome" },
-    { "id": "ihbiedpeaicgipncdnnkikeehnjiddck", "name": "Weather", "browser": "Chrome" },
-    { "id": "jjdajogomggcjifnjgkpghcijgkbcjdi", "name": "Unlock TikTok", "browser": "Edge" },
-    { "id": "mmcnmppeeghenglmidpmjkaiamcacmgm", "name": "Volume Booster", "browser": "Edge" },
-    { "id": "ojdkklpgpacpicaobnhankbalkkgaafp", "name": "Web Sound Equalizer", "browser": "Edge" },
-    { "id": "lodeighbngipjjedfelnboplhgediclp", "name": "Header Value", "browser": "Edge" },
-    { "id": "hkjagicdaogfgdifaklcgajmgefjllmd", "name": "Flash Player", "browser": "Edge" },
-    { "id": "gflkbgebojohihfnnplhbdakoipdbpdm", "name": "Youtube Unblocked", "browser": "Edge" },
-    { "id": "kpilmncnoafddjpnbhepaiilgkdcieaf", "name": "SearchGPT", "browser": "Edge" },
-    { "id": "caibdnkmpnjhjdfnomfhijhmebigcelo", "name": "Unlock Discord", "browser": "Edge" },
-    { "id": "fnmihdojmnkclgjpcoonokmkhjpjechg", "name": "Chat GPT for Chrome with GPT-5, Claude & DeepSeek AI", "browser": "Chrome" },
-    { "id": "inhcgfpbfdjbjogdfjbclgolkmhnooop", "name": "AI Sidebar with Deepseek, ChatGPT, Claude", "browser": "Chrome" },
-    { "id": "nlhpidbjmmffhoogcennoiopekbiglbp", "name": "AI Assistant", "browser": "Chrome" },
-    { "id": "gcfianbpjcfkafpiadmheejkokcmdkjl", "name": "Llama", "browser": "Chrome" },
-    { "id": "fppbiomdkfbhgjjdmojlogeceejinadg", "name": "Gemini AI Sidebar", "browser": "Chrome" },
-    { "id": "djhjckkfgancelbmgcamjimgphaphjdl", "name": "AI Sidebar", "browser": "Chrome" },
-    { "id": "gghdfkafnhfpaooiolhncejnlgglhkhe", "name": "AI Sidebar (Variant)", "browser": "Chrome" },
-    { "id": "llojfncgbabajmdglnkbhmiebiinohek", "name": "ChatGPT Sidebar", "browser": "Chrome" },
-    { "id": "cgmmcoandmabammnhfnjcakdeejbfimn", "name": "Grok", "browser": "Chrome" },
-    { "id": "gcdfailafdfjbailcdcbjmeginhncjkb", "name": "Grok Chatbot", "browser": "Chrome" },
-    { "id": "phiphcloddhmndjbdedgfbglhpkjcffh", "name": "Asking Chat Gpt", "browser": "Chrome" },
-    { "id": "pgfibniplgcnccdnkhblpmmlfodijppg", "name": "ChatGBT", "browser": "Chrome" },
-    { "id": "nkgbfengofophpmonladgaldioelckbe", "name": "Chat Bot GPT", "browser": "Chrome" },
-    { "id": "ebmmjmakencgmgoijdfnbailknaaiffh", "name": "Chat With Gemini", "browser": "Chrome" },
-    { "id": "baonbjckakcpgliaafcodddkoednpjgf", "name": "XAI", "browser": "Chrome" },
-    { "id": "fdlagfnfaheppaigholhoojabfaapnhb", "name": "Google Gemini", "browser": "Chrome" },
-    { "id": "gnaekhndaddbimfllbgmecjijbbfpabc", "name": "Ask Gemini", "browser": "Chrome" },
-    { "id": "hgnjolbjpjmhepcbjgeeallnamkjnfgi", "name": "AI Letter Generator", "browser": "Chrome" },
-    { "id": "lodlcpnbppgipaimgbjgniokjcnpiiad", "name": "AI Message Generator", "browser": "Chrome" },
-    { "id": "cmpmhhjahlioglkleiofbjodhhiejhei", "name": "AI Translator", "browser": "Chrome" },
-    { "id": "bilfflcophfehljhpnklmcelkoiffapb", "name": "AI For Translation", "browser": "Chrome" },
-    { "id": "cicjlpmjmimeoempffghfglndokjihhn", "name": "AI Cover Letter Generator", "browser": "Chrome" },
-    { "id": "ckneindgfbjnbbiggcmnjeofelhflhaj", "name": "AI Image Generator Chat GPT", "browser": "Chrome" },
-    { "id": "dbclhjpifdfkofnmjfpheiondafpkoed", "name": "Ai Wallpaper Generator", "browser": "Chrome" },
-    { "id": "ecikmpoikkcelnakpgaeplcjoickgacj", "name": "Ai Picture Generator", "browser": "Chrome" },
-    { "id": "kepibgehhljlecgaeihhnmibnmikbnga", "name": "DeepSeek Download", "browser": "Chrome" },
-    { "id": "gohgeedemmaohocbaccllpkabadoogpl", "name": "DeepSeek Chat", "browser": "Chrome" },
-    { "id": "ckicoadchmmndbakbokhapncehanaeni", "name": "AI Email Writer", "browser": "Chrome" },
-    { "id": "fnjinbdmidgjkpmlihcginjipjaoapol", "name": "Email Generator AI", "browser": "Chrome" },
-    { "id": "flnecpdpbhdblkpnegekobahlijbmfok", "name": "ChatGPT Picture Generator", "browser": "Chrome" },
-    { "id": "acaeafediijmccnjlokgcdiojiljfpbe", "name": "ChatGPT Translate", "browser": "Chrome" },
-    { "id": "kblengdlefjpjkekanpoidgoghdngdgl", "name": "AI GPT", "browser": "Chrome" },
-    { "id": "idhknpoceajhnjokpnbicildeoligdgh", "name": "ChatGPT Translation", "browser": "Chrome" },
-    { "id": "fpmkabpaklbhbhegegapfkenkmpipick", "name": "Chat GPT for Gmail", "browser": "Chrome" },
-    { "id": "ceibjdigmfbbgcpkkdpmjokkokklodmc", "name": "VK Styles - Themes for vk.com", "browser": "Chrome" },
-    { "id": "mflibpdjoodmoppignjhciadahapkoch", "name": "VK Music - audio saver", "browser": "Chrome" },
-    { "id": "lgakkahjfibfgmacigibnhcgepajgfdb", "name": "Music Downloader - VKsaver", "browser": "Chrome" },
-    { "id": "bndkfmmbidllaiccmpnbdonijmicaafn", "name": "vksaver - music saver vk", "browser": "Chrome" },
-    { "id": "pcdgkgbadeggbnodegejccjffnoakcoh", "name": "VKfeed - Download Music and Video from VK", "browser": "Chrome" }
-
+    { "id": "kgmeffmlnkfnjpgmdndccklfigfhajen", 
+      "name": "Emoji Keyboard Online", 
+      "browser": "Chrome" 
+    },
+    { "id": "dpdibkjjgbaadnnjhkmmnenkmbnhpobj", 
+      "name": "Free Weather Forecast", 
+      "browser": "Chrome" 
+    },
+    { "id": "gaiceihehajjahakcglkhmdbbdclbnlf", 
+      "name": "Video Speed Controller", 
+      "browser": "Chrome" 
+    },
+    { "id": "mlgbkfnjdmaoldgagamcnommbbnhfnhf", 
+      "name": "Unlock Discord (VPN Proxy)", 
+      "browser": "Chrome" 
+    },
+    { "id": "eckokfcjbjbgjifpcbdmengnabecdakp", 
+      "name": "Dark Theme", 
+      "browser": "Chrome" 
+    },
+    { "id": "mgbhdehiapbjamfgekfpebmhmnmcmemg", 
+      "name": "Volume Max", 
+      "browser": "Chrome" 
+    },
+    { "id": "cbajickflblmpjodnjoldpiicfmecmif", 
+      "name": "Unblock TikTok", 
+      "browser": "Chrome" 
+    },
+    { "id": "pdbfcnhlobhoahcamoefbfodpmklgmjm", 
+      "name": "Unlock YouTube VPN", 
+      "browser": "Chrome" 
+    },
+    { "id": "eokjikchkppnkdipbiggnmlkahcdkikp", 
+      "name": "Geco Colorpick / Eyedropper", 
+      "browser": "Chrome" 
+    },
+    { "id": "ihbiedpeaicgipncdnnkikeehnjiddck", 
+      "name": "Weather", 
+      "browser": "Chrome" 
+    },
+    { "id": "jjdajogomggcjifnjgkpghcijgkbcjdi", 
+      "name": "Unlock TikTok", 
+      "browser": "Edge" 
+    },
+    { "id": "mmcnmppeeghenglmidpmjkaiamcacmgm", 
+      "name": "Volume Booster", 
+      "browser": "Edge" 
+    },
+    { "id": "ojdkklpgpacpicaobnhankbalkkgaafp", 
+      "name": "Web Sound Equalizer", 
+      "browser": "Edge" 
+    },
+    { "id": "lodeighbngipjjedfelnboplhgediclp", 
+      "name": "Header Value", 
+      "browser": "Edge" 
+    },
+    { "id": "hkjagicdaogfgdifaklcgajmgefjllmd", 
+      "name": "Flash Player", 
+      "browser": "Edge" 
+    },
+    { "id": "gflkbgebojohihfnnplhbdakoipdbpdm", 
+      "name": "Youtube Unblocked", 
+      "browser": "Edge" 
+    },
+    { "id": "kpilmncnoafddjpnbhepaiilgkdcieaf", 
+      "name": "SearchGPT", 
+      "browser": "Edge" 
+    },
+    { "id": "caibdnkmpnjhjdfnomfhijhmebigcelo", 
+      "name": "Unlock Discord", "browser": "Edge" 
+    },
+    { "id": "fnmihdojmnkclgjpcoonokmkhjpjechg", 
+      "name": "Chat GPT for Chrome with GPT-5, Claude & DeepSeek AI", 
+      "browser": "Chrome" 
+    },
+    { "id": "inhcgfpbfdjbjogdfjbclgolkmhnooop", 
+      "name": "AI Sidebar with Deepseek, ChatGPT, Claude", 
+      "browser": "Chrome" 
+    },
+    { "id": "nlhpidbjmmffhoogcennoiopekbiglbp", 
+      "name": "AI Assistant", 
+      "browser": "Chrome" 
+    },
+    { "id": "gcfianbpjcfkafpiadmheejkokcmdkjl", 
+      "name": "Llama", 
+      "browser": "Chrome" 
+    },
+    { "id": "fppbiomdkfbhgjjdmojlogeceejinadg", 
+      "name": "Gemini AI Sidebar", 
+      "browser": "Chrome" 
+    },
+    { "id": "djhjckkfgancelbmgcamjimgphaphjdl", 
+      "name": "AI Sidebar", 
+      "browser": "Chrome" 
+    },
+    { "id": "gghdfkafnhfpaooiolhncejnlgglhkhe", 
+      "name": "AI Sidebar (Variant)", 
+      "browser": "Chrome" 
+    },
+    { "id": "llojfncgbabajmdglnkbhmiebiinohek", 
+      "name": "ChatGPT Sidebar", 
+      "browser": "Chrome" 
+    },
+    { "id": "cgmmcoandmabammnhfnjcakdeejbfimn", 
+      "name": "Grok", 
+      "browser": "Chrome" 
+    },
+    { "id": "gcdfailafdfjbailcdcbjmeginhncjkb", 
+      "name": "Grok Chatbot", 
+      "browser": "Chrome" 
+    },
+    { "id": "phiphcloddhmndjbdedgfbglhpkjcffh", 
+      "name": "Asking Chat Gpt", 
+      "browser": "Chrome" 
+    },
+    { "id": "pgfibniplgcnccdnkhblpmmlfodijppg", 
+      "name": "ChatGBT", 
+      "browser": "Chrome" 
+    },
+    { "id": "nkgbfengofophpmonladgaldioelckbe", 
+      "name": "Chat Bot GPT", 
+      "browser": "Chrome" 
+    },
+    { "id": "ebmmjmakencgmgoijdfnbailknaaiffh", 
+      "name": "Chat With Gemini", 
+      "browser": "Chrome" 
+    },
+    { "id": "baonbjckakcpgliaafcodddkoednpjgf", 
+      "name": "XAI", 
+      "browser": "Chrome" 
+    },
+    { "id": "fdlagfnfaheppaigholhoojabfaapnhb", 
+      "name": "Google Gemini", 
+      "browser": "Chrome" 
+    },
+    { "id": "gnaekhndaddbimfllbgmecjijbbfpabc", 
+      "name": "Ask Gemini", 
+      "browser": "Chrome" 
+    },
+    { "id": "hgnjolbjpjmhepcbjgeeallnamkjnfgi", 
+      "name": "AI Letter Generator", 
+      "browser": "Chrome" 
+    },
+    { "id": "lodlcpnbppgipaimgbjgniokjcnpiiad", 
+      "name": "AI Message Generator", 
+      "browser": "Chrome" 
+    },
+    { "id": "cmpmhhjahlioglkleiofbjodhhiejhei", 
+      "name": "AI Translator", 
+      "browser": "Chrome" 
+    },
+    { "id": "bilfflcophfehljhpnklmcelkoiffapb", 
+      "name": "AI For Translation", 
+      "browser": "Chrome" 
+    },
+    { "id": "cicjlpmjmimeoempffghfglndokjihhn", 
+      "name": "AI Cover Letter Generator", 
+      "browser": "Chrome" 
+    },
+    { "id": "ckneindgfbjnbbiggcmnjeofelhflhaj", 
+      "name": "AI Image Generator Chat GPT", 
+      "browser": "Chrome" 
+    },
+    { "id": "dbclhjpifdfkofnmjfpheiondafpkoed", 
+      "name": "Ai Wallpaper Generator", 
+      "browser": "Chrome" 
+    },
+    { "id": "ecikmpoikkcelnakpgaeplcjoickgacj", 
+      "name": "Ai Picture Generator", 
+      "browser": "Chrome" 
+    },
+    { "id": "kepibgehhljlecgaeihhnmibnmikbnga", 
+      "name": "DeepSeek Download", 
+      "browser": "Chrome" 
+    },
+    { "id": "gohgeedemmaohocbaccllpkabadoogpl", 
+      "name": "DeepSeek Chat", 
+      "browser": "Chrome" 
+    },
+    { "id": "ckicoadchmmndbakbokhapncehanaeni", 
+      "name": "AI Email Writer", 
+      "browser": "Chrome" 
+    },
+    { "id": "fnjinbdmidgjkpmlihcginjipjaoapol", 
+      "name": "Email Generator AI", 
+      "browser": "Chrome" 
+    },
+    { "id": "flnecpdpbhdblkpnegekobahlijbmfok", 
+      "name": "ChatGPT Picture Generator", 
+      "browser": "Chrome" 
+    },
+    { "id": "acaeafediijmccnjlokgcdiojiljfpbe",
+      "name": "ChatGPT Translate", 
+      "browser": "Chrome" 
+    },
+    { "id": "kblengdlefjpjkekanpoidgoghdngdgl", 
+      "name": "AI GPT", 
+      "browser": "Chrome" 
+    },
+    { "id": "idhknpoceajhnjokpnbicildeoligdgh", 
+      "name": "ChatGPT Translation", 
+      "browser": "Chrome" 
+    },
+    { "id": "fpmkabpaklbhbhegegapfkenkmpipick", 
+      "name": "Chat GPT for Gmail", 
+      "browser": "Chrome" 
+    },
+    { "id": "ceibjdigmfbbgcpkkdpmjokkokklodmc", 
+      "name": "VK Styles - Themes for vk.com", 
+      "browser": "Chrome" 
+    },
+    { "id": "mflibpdjoodmoppignjhciadahapkoch", 
+      "name": "VK Music - audio saver", 
+      "browser": "Chrome" 
+    },
+    { "id": "lgakkahjfibfgmacigibnhcgepajgfdb", 
+      "name": "Music Downloader - VKsaver", 
+      "browser": "Chrome" 
+    },
+    { "id": "bndkfmmbidllaiccmpnbdonijmicaafn", 
+      "name": "vksaver - music saver vk", 
+      "browser": "Chrome" 
+    },
+    { "id": "pcdgkgbadeggbnodegejccjffnoakcoh", 
+      "name": "VKfeed - Download Music and Video from VK", 
+      "browser": "Chrome" 
+    }
   ]
 }
